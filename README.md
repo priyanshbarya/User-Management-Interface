@@ -4,6 +4,9 @@
 
 This project involves creating a user management interface using ReactJS. The application displays a list of users with interactive features and allows for user details to be in-place edited or deleted based on certain conditions.
 
+## Link to hosting platform
+    https://user-management-interface.vercel.app/
+    
 ## Features
 
 - **Search Functionality**: A search bar to filter users by celebrity name.
