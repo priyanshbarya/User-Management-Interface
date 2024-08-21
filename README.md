@@ -21,7 +21,7 @@ This project involves creating a user management interface using ReactJS. The ap
 - HTML
 
 ## Setup Instructions
-1. Clone the repository: git clone https://github.com/priyanshbarya/UserManagementInterface
+1. Clone the repository: git clone https://github.com/priyanshbarya/User-Management-Interface
 2. Navigate to the project directory 
 3. Install dependencies:
     - npm install
